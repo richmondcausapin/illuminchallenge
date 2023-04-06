@@ -7,8 +7,8 @@ It will prompt the user to enter the following information:
 First Name,
 Last Name,
 Email
+Username will be the same as the email
 
-I used the email as the username to make it extremely easy.
 Once completed, it will create the user and you will be able to see that user within the Otka admin panel.
 
 The second powershell script will deactivate a user within Otka.
