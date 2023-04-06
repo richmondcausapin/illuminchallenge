@@ -4,8 +4,8 @@ The first powershell script will allow creation of a user within Otka.
 It will ask you to enter the OKTA API endpoint and your Okta API key in order to complete the request.
 
 It will prompt the user to enter the following information:
-First Name
-Last Name
+First Name,
+Last Name,
 Email
 
 I used the email as the username to make it extremely easy.
